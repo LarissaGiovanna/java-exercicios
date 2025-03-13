@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ex2.Main",
+            "projectName": "java-exercicios_d69f2d67"
+        },
+        {
+            "type": "java",
             "name": "Exceções",
             "request": "launch",
             "mainClass": "Exceções",
